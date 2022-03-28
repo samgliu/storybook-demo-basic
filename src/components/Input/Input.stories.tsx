@@ -26,7 +26,7 @@ Small.args = {
   placeholder: 'small text',
 };
 export const Small2 = Template.bind({});
-Small2.storyName = 'Small Two';
+Small2.storyName = 'Small T';
 Small2.args = {
   size: 'small',
   placeholder: 'small2 text',
