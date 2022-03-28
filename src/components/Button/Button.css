@@ -1,0 +1,29 @@
+.button {
+  border: none;
+  color: white;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+
+.default {
+  background-color: skyblue;
+}
+.primary {
+  background-color: #008cba;
+}
+.secondary {
+  background-color: #e7e7e7;
+  color: black;
+}
+.success {
+  background-color: #4caf50;
+}
+.error {
+  background-color: #f44336;
+}
