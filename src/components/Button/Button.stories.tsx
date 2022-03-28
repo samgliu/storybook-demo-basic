@@ -19,19 +19,16 @@ Primary.args = {
   variant: 'primary',
   children: 'Primary',
 };
-
 export const Secondary = Template.bind({});
 Secondary.args = {
   variant: 'secondary',
   children: 'Secondary',
 };
-
 export const Success = Template.bind({});
 Success.args = {
   variant: 'success',
   children: 'Success',
 };
-
 export const Error = Template.bind({});
 Error.args = {
   variant: 'error',
